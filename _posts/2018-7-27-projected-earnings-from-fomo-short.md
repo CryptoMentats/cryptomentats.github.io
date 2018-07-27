@@ -3,6 +3,8 @@ layout: post
 title: Projected Earnings for Fomo Short
 ---
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 Test test test
 
 <div class="calc1">
