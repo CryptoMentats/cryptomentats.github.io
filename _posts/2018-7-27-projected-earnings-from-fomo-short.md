@@ -7,7 +7,6 @@ title: Projected Earnings for Fomo Short
 <script>
   $(function() {
     $("button#cal1-button").on("click", function() { 
-       alert("hello");
        $("p.calc1-result span.result").html("61");
     });
   });
