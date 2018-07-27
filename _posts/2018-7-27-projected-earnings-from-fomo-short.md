@@ -11,7 +11,7 @@ Test test test
   
   <input type="number" id="invested" />
   <input type="number" id="invested2" />
-  <input type="submit" id="cal1-button" text="Calculate" />
+  <button type="button" id="cal1-button">Calculate</button>
   <p class="calc1-result">You'll need <span id='result'>51</span> ETH to break even!</p>
 
 </div>
